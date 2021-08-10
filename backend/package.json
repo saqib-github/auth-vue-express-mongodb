@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a backend for authentication",
+  "main": "app.js",
+  "type": "module" ,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Saqib Javed",
+  "license": "ISC"
+}
